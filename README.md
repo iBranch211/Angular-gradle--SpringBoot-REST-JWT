@@ -195,4 +195,4 @@ curl -X GET --header 'Accept: application/json' --header 'Authorization: [replac
 ![Dashboard](/screenshots/api_doc2.png?raw=true)
 ---
 #### Database Schema
-![ER Diagram](/screenshots/er_model.png?raw=true)
+![ER Diagram](/screenshots/db_schema.png?raw=true)
